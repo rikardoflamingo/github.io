@@ -1,0 +1,102 @@
+.background {
+	background-image:url(../img/bg_2017_v2.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	min-height:800px;
+}
+
+.background2 {
+	background-image:url(../img/bg_2016_17.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	min-height:800px;
+}
+
+.tc {
+	font-size:10px;
+	color:#666666;
+	line-height:13px;
+	text-align:justify!important;
+	text-justify:inter-word;
+}
+
+.enternow 	{
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+.formholder {
+	padding: 10px 0 0 0;
+	background-color:#cccccc;
+	border-radius: 10px;
+
+}
+.formholder h5 {
+	text-align:center;
+	padding: 0 20%;}
+
+h5 {
+	font-weight:bold;
+	text-transform:uppercase;
+	padding: 10px 0 0px 0;
+}
+
+label {
+	color: #000000;
+	text-transform:uppercase;
+	font-size:13px;
+}
+
+p small {
+	color: #000000;
+	font-size:9px;
+}
+
+h3 {
+	color: #00665e;
+}
+
+.prizepack {
+	padding-top: 120px;
+	color: #ffffff;
+	text-align:center;
+}
+.prizepack h1 { font-size:54px; margin-bottom: -20px; margin-top: 0px}
+
+.prizepack h4 { font-size: 16px; line-height: 1.4em}
+
+.packshot img {
+	margin: 0 auto;
+}
+
+.matchdates h1, .matchdates h3  {
+	text-align:center;
+	color: #00665e;
+}
+
+.matchdates p {
+	text-align:center;
+	color: #000000;
+}
+
+.red12 {
+	position:fixed;
+	top: 0;
+	left: 0;
+	margin-bottom: -152px;
+	display:block;
+	background-image:url(../img/12.png);
+	height: 152px;
+	width:332px;
+	z-index:999;
+	background-repeat:no-repeat;
+
+}
+
+.thankyou {
+	text-align: center;
+	color: #777777;
+}
+.greentext {
+	color: #00665e;
+}
