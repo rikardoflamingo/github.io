@@ -1,5 +1,5 @@
 .background {
-	background-image:url(../img/bg_2017_v2.jpg);
+	background-image:url(../img/bg_2017_v3_SA.jpg);
 	background-position:center top;
 	background-repeat:no-repeat;
 
@@ -63,7 +63,7 @@ h3 {
 }
 .prizepack h1 { font-size:54px; margin-bottom: -20px; margin-top: 0px}
 
-.prizepack h4 { font-size: 16px; line-height: 1.4em}
+.prizepack h4 { font-size: 16px; line-height: 1.4em; color: #c56c84;}
 
 .packshot img {
 	margin: 0 auto;
